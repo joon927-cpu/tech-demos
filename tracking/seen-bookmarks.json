@@ -1,0 +1,36 @@
+{
+  "proposed": [
+    {
+      "id": "2108933694190768152",
+      "title": "Gaussian splatting + MediaPipe + Three.js webcam parallax",
+      "url": "https://x.com/_fojcik/status/2108933694190768152",
+      "date": "2026-10-12",
+      "slug": "splat-window"
+    },
+    {
+      "id": "2109498131255808422",
+      "title": "Mini Moto robot factory (browser assembly-line game)",
+      "url": "https://x.com/chrisjdimarco/status/2109498131255808422",
+      "date": "2026-10-13",
+      "slug": "mini-moto-factory"
+    }
+  ],
+  "approved": [
+    {
+      "id": "2109266407338934719",
+      "title": "Remotion / Opus motion-design playbook (programmatic video)",
+      "url": "https://x.com/flxrnc/status/2109266407338934719",
+      "date": "2026-10-14",
+      "slug": "remotion-brief",
+      "approved_on": "2026-10-14"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "2108933694190768152",
+      "title": "Gaussian splatting webcam head-tracking (splat-window)",
+      "url": "https://x.com/_fojcik/status/2108933694190768152",
+      "date": "2026-10-12"
+    }
+  ]
+}
