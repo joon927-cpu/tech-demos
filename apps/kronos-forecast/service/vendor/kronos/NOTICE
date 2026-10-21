@@ -1,0 +1,4 @@
+Vendored from https://github.com/shiyu-coder/Kronos (MIT).
+Files, unmodified: model/__init__.py, model/kronos.py, model/module.py, LICENSE.
+Weights are not included. They download from Hugging Face (NeoQuasar/Kronos-small
+and NeoQuasar/Kronos-Tokenizer-base) on first run.

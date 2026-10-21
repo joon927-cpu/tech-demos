@@ -23,6 +23,14 @@
       "date": "2026-10-14",
       "slug": "remotion-brief",
       "approved_on": "2026-10-14"
+    },
+    {
+      "id": "2112329196437684311",
+      "title": "Kronos candlestick foundation model (price-chart forecasting)",
+      "url": "https://x.com/RoundtableSpace/status/2112329196437684311",
+      "date": "2026-10-20",
+      "slug": "kronos-forecast",
+      "approved_on": "2026-10-21"
     }
   ],
   "skipped": [
